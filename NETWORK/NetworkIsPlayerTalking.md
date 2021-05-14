@@ -9,10 +9,10 @@ BOOL NETWORK_IS_PLAYER_TALKING(Player player);
 ```
 
 ```
-returns true if someone is screaming or talking in a microphone  
+returns true if someone is screaming or talking in a microphone.
 ```
 
 ## Parameters
-* **player**: 
+* **player**: The player's server index
 
 ## Return value
